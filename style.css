@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: #35C0CD
+}
+.podpuntk{
+    text-align: center;
+}
+.bio{
+    background-color: #35C0CD;
+    border: solid black 5px
+}
+.cre{
+background-color: #476DD5;
+border: solid black 5px
+}
+.raz{
+    border: solid black 5px;
+    background-color: #39E24D
+}
+.slov{
+    background-color: #5EC4CD;
+    border: solid black 5px
+}
+footer p{
+background-color: #35C0CD; 
+border: solid black 5px
+}
+a{
+    border: black 5px solid;
+    background-color: #35C0CD;
+    font-size:30px;
+    font-color: black;
+   margin: 15px;
+   padding: 5px;
+}
+nav{
+    margin: 20px;
+}
